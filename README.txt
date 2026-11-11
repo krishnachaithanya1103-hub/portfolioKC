@@ -1,32 +1,16 @@
-KRISHNA CHAITHANYA VARMA — CLIENT ACQUISITION PORTFOLIO
+KRISHNA CHAITHANYA VARMA — CLIENT CONVERSION PORTFOLIO
 
-Files:
-- index.html: website homepage
-- styles.css: responsive navy-and-gold styling
-- script.js: mobile navigation and reveal effects
-- assets/krishna-professional.jpg: add your professional portrait here
+Upload the CONTENTS of this folder to the root of your GitHub repository (portfolioKC):
+- index.html
+- styles.css
+- script.js
+- assets/krishna-professional.jpg
 
-PHOTO:
-Replace the placeholder by adding your own professional photograph at:
-assets/krishna-professional.jpg
+GitHub Pages:
+Repository Settings > Pages > Deploy from a branch > main > /(root).
 
-PUBLISH WITH GITHUB PAGES:
-1. Create a public repository named USERNAME.github.io (USERNAME is your GitHub username).
-2. Upload the contents of this folder (index.html, styles.css, script.js, assets/).
-3. In GitHub repository Settings > Pages, select Deploy from a branch, branch main, folder /root.
-4. Save. Your site will publish at https://USERNAME.github.io.
+The Schedule a Meeting buttons open an email draft to chaitanya@calisofttech.com with a meeting request subject and prompts. They do not claim to book a calendar slot. Add a real booking URL later if you have a Calendly/Google appointment scheduling link.
 
-CONTACT:
-Business email and LinkedIn links are embedded in the page.
-LinkedIn profile content could not be fetched automatically, so the supplied profile URL is linked directly. Update any additional profile details after reviewing them.
+Team size figures (30 total; 15 domestic) are based on information supplied by the user. Staffing turnaround is intentionally described as agreed per requirement, not guaranteed in a fixed number of days.
 
-CONTENT NOTES:
-- Work history timeline has been removed as requested.
-- Client/partner names are presented as user-provided professional relationships, not endorsements.
-- Federal-sector relationships are described generically because specific organization names were not supplied.
-- Team size (30 total; 15 domestic) is based on information supplied by the user.
-- Technology skills are framed as staffing talent domains, not claims of internal engineering certifications.
-
-
-PROFILE PHOTO
-The professional portrait is included at assets/krishna-professional.jpg and is already linked from the homepage.
+Client names are presented as professional relationships shared by the user and do not imply endorsement or sponsorship.
